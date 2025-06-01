@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Perseverance25
 - 👀 I’m interested in marketing 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Html, CSS and JavaScript
 - 💞️ I’m looking to collaborate on coding
 - 📫 
 
