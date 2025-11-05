@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Perseverance Makurira
+#  Hi, I’m Perseverance Makurira
 
 🚀 Digital Marketing Strategist | AI Enthusiast | Creator of **The Diary of a Hustler Hub**
 
 ---
 
-## 🌟 What I Do
+## What I Do
 - Build and manage digital campaigns (SEO, SEM, PPC, Ads)
 - Create branded content and optimize workflows with AI
 - Share insights on entrepreneurship and digital growth
