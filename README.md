@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Perseverance25
-- 👀 I’m interested in marketing 
-- 🌱 I’m currently learning Python, Html, CSS and JavaScript
-- 💞️ I’m looking to collaborate on coding
-- 📫 
+# 👋 Hi, I’m Perseverance Makurira
 
-<!---
-Perseverance25/Perseverance25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Digital Marketing Strategist | AI Enthusiast | Creator of **The Diary of a Hustler Hub**
+
+---
+
+## 🌟 What I Do
+- Build and manage digital campaigns (SEO, SEM, PPC, Ads)
+- Create branded content and optimize workflows with AI
+- Share insights on entrepreneurship and digital growth
+
+---
+
+## 🌍 Connect With Me
+- 📰 [The Diary of a Hustler Hub](https://thediaryofahustlerhub.wordpress.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/perseverance)  
+- 🧠 [When My Body Betrayed Me](https://perseverancem.blogspot.com)  
+
+---
+
+## 📊 Quick Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Perseverance25&show_icons=true&theme=radical)
+
+---
+
+✨ *“I don’t just adapt to the future — I start conversations with it.”*
