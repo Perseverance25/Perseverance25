@@ -1,6 +1,8 @@
 #  Hi, I’m Perseverance Makurira
 
  Digital Marketing Strategist | AI Enthusiast | Creator of **The Diary of a Hustler Hub**
+ 🌐 Visit my portfolio: https://perseverancemakurira.github.io
+
 
 ---
 
